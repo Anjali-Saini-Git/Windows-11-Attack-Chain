@@ -79,7 +79,7 @@ The formal VAPT report includes:
 
 ## Disclaimer
 
-> **This project was conducted in an isolated, controlled lab environment with explicit authorization. All techniques demonstrated are for educational purposes only. The goal is to help security professionals understand attack vectors for better defense. Misuse of this information is strictly discouraged.**
+> **This project was conducted in an isolated, controlled lab environment with explicit authorization. All techniques demonstrated are for educational purposes only. Misuse of this information is strictly discouraged.**
 
 ---
 
